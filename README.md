@@ -1,3 +1,3 @@
 # hellozzas
-littlezzas
+littlezzas '/n'
 littlezzas write somethings
